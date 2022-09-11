@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakia Farhat</h1>
-<h3 align="center">BE HAPPY</h3>
+<h3 align="center">CURRENTLY SEEKING IDEAS.</h3>
 
 - 🌱 I’m currently learning **Java**
 
